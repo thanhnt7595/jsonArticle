@@ -1,0 +1,1319 @@
+{
+    "company_layout_04_thanh": [
+        {
+            "type": "Company 04",
+            "name": "company_layout_04_thanh-1",
+            "color_bg":"#fff",
+            "color_text":"#015c69",
+            "html": "<div id='layout-article4'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole custom-banner'> <div class='article-img'> <a href='#' class='banner_1'> <div class='ov1'></div> <div class='ov2'></div> <div class='ov3'></div> <div class='ov4'></div> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div> </div>",
+            "css": "@media (max-width: 768px) { #layout-article4 .content-article{ text-align: justify !important; } #layout-article4 .sm-hide{ display:none; } #layout-article4 .lg-hide{ display: block !important; }}#layout-article4{background:{color_bg};} #layout-article4 p{ margin-bottom: 0px; font-size: 25px; margin: 0 auto; font-family: 'Open Sans Condensed', sans-serif; font-weight: bold;}#layout-article4{ padding: 20px 0;}#layout-article4 .custom-banner{ overflow: hidden; position: relative;}#layout-article4 .custom-banner a{ overflow:hidden;}#layout-article4 .custom-banner a:hover .ov1 { left: 0%;}#layout-article4 .custom-banner a:hover .ov2 { top: 0%;}#layout-article4 .custom-banner a:hover .ov3 { right: 0%;}#layout-article4 .custom-banner a:hover .ov4 { bottom:0%;}#layout-article4 .custom-banner a:hover:after{ opacity:0.35;}#layout-article4 .custom-banner a:hover .text-content h2.title, .text-content2 h2.title{ color:#fff;}#layout-article4 .custom-banner a:hover .text-content span { color: #fff; border-color: #fff;}#layout-article4 .custom-banner .banner_1 img{ vertical-align: middle;}#layout-article4 .custom-banner .banner_1 .ov1 { top: 20px;}#layout-article4 .custom-banner .banner_1 .ov2{ right:20px;}#layout-article4 .custom-banner .banner_1 .ov3{ bottom:20px;}#layout-article4 .custom-banner .banner_1 .ov4 { left: 50px;}#layout-article4 .custom-banner .banner_1:after{ height:100%;}#layout-article4 .custom-banner a:after{ content:''; width:100%; height:100%; position:absolute; top:0px; background:red; opacity:0;}#layout-article4 .custom-banner .ov1 { left: 100%; top: 7%; width: 100%; height: 1px;}#layout-article4 .custom-banner .ov2 { top: 100%; right: 5%; height: 100%; width: 1px;}#layout-article4 .custom-banner .ov3 { right: 100%; bottom: 10%; width: 100%; height: 1px;}#layout-article4 .custom-banner .ov4 { left: 8%; bottom: 100%; height: 100%; width: 1px;}#layout-article4 .custom-banner .ov1, .ov2, .ov3, .ov4 { -webkit-transition: 400ms; -moz-transition: 400ms; -ms-transition: 400ms; -o-transition: 400ms; transition: 400ms; position: absolute; background: #fff; z-index: 1;}#layout-article4 .content-article{ padding: 50px 0;}#layout-article4 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 28px; height: 30px; padding-left: 20px; display: flex; justify-content: left; align-items: center; position: relative; margin: 0px 0px 5px; font-weight: bold; font-size: 35px; color: #000; text-transform: normal;}#layout-article4 .content-article .section-title h2:before{ content: ''; position: absolute; width: 20px; left: 0px; background: #000; top: 44%; height: 3px;}#layout-article4 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color:{color_text}#layout-article4 .content-article .lg-hide{ display: none;}#layout-article4 .content-article a { display: block; overflow: hidden; border-radius: 5px;}#layout-article4 .content-article a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article4 .content-article a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id": "company_layout_04_thanh-1",
+            "content": [
+                {
+                    "name": "layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "01",
+                    "type": "text"
+                },
+                {
+                    "name": "layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Được khởi công từ cuối năm 2003 với diện tích sàn 96.000 m2, đến nay, “tòa nhà thế kỷ” - tên gọi giảng đường A2 của các sinh viên NEU - cơ bản hoàn thiện và được đưa vào sử dụng trong năm học mới 2017-2018.Tòa nhà 10 tầng có 147 phòng chức năng bao gồm phòng học, phòng bảo vệ luận văn tiến sĩ, thạc sĩ, phòng học nhóm… cùng 6 thang máy.\"Đưa vào sử dụng giảng đường A2, trường sẽ không phải đi thuê phòng học bên ngoài, giải quyết 100% phòng học cho sinh viên\", đại diện nhà trường thông tin. Đó là lý do nhà trường quyết định xây dựng giảng đường theo lối kiến trúc Pháp hiện đại, do chính kiến trúc sư đến từ nước này thiết kế, tạo cho sinh viên môi trường mới mẻ, độc đáo để học tập.Cuối năm 2013, giảng đường cơ bản được hoàn thiện phần thô. Đến năm 2014, công trình tiếp tục được hoàn thiện các bộ phận bên trong.Tòa nhà được bao phủ màu trắng và đỏ giúp tỏa sáng ở mọi góc độ mà vẫn có những điểm nhấn thú vị. Các phòng học đều có máy tính cho giáo viên, máy chiếu, âm thanh, điều hòa. Hệ thống đèn Led hiện đại chạy dọc sảnh hành lang. Đơn vị quản lý tòa nhà chuyên nghiệp. Các Neu-er sẽ được sử dụng Wi-Fi miễn phí phủ kín trong và ngoài tòa nhà. Hệ thống kích sóng điện thoại di động, hệ thống camera giám sát từng phòng học cũng được trang bị.",
+                    "type": "text"
+                },
+                {
+                    "name": "layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_layout04_blog1.jpg",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "type": "Company 04",
+            "name": "company_layout_04_thanh-2",
+            "color_bg":"#fff",
+            "color_text":"#015c69",
+            "html": " <div id='layout-article4'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-whole'> <p class='text-center'>{layout_content}</p> </div> </div> </div> </div> </div>",
+            "css": "@media (max-width: 768px) { #layout-article4 .content-article{ text-align: justify !important; } #layout-article4 .sm-hide{ display:none; } #layout-article4 .lg-hide{ display: block !important; }}#layout-article4{background:{color_bg};} #layout-article4 p{ margin-bottom: 0px; font-size: 25px; margin: 0 auto; font-family: 'Open Sans Condensed', sans-serif; font-weight: bold;}#layout-article4{ padding: 20px 0;}#layout-article4 .custom-banner{ overflow: hidden; position: relative;}#layout-article4 .custom-banner a{ overflow:hidden;}#layout-article4 .custom-banner a:hover .ov1 { left: 0%;}#layout-article4 .custom-banner a:hover .ov2 { top: 0%;}#layout-article4 .custom-banner a:hover .ov3 { right: 0%;}#layout-article4 .custom-banner a:hover .ov4 { bottom:0%;}#layout-article4 .custom-banner a:hover:after{ opacity:0.35;}#layout-article4 .custom-banner a:hover .text-content h2.title, .text-content2 h2.title{ color:#fff;}#layout-article4 .custom-banner a:hover .text-content span { color: #fff; border-color: #fff;}#layout-article4 .custom-banner .banner_1 img{ vertical-align: middle;}#layout-article4 .custom-banner .banner_1 .ov1 { top: 20px;}#layout-article4 .custom-banner .banner_1 .ov2{ right:20px;}#layout-article4 .custom-banner .banner_1 .ov3{ bottom:20px;}#layout-article4 .custom-banner .banner_1 .ov4 { left: 50px;}#layout-article4 .custom-banner .banner_1:after{ height:100%;}#layout-article4 .custom-banner a:after{ content:''; width:100%; height:100%; position:absolute; top:0px; background:red; opacity:0;}#layout-article4 .custom-banner .ov1 { left: 100%; top: 7%; width: 100%; height: 1px;}#layout-article4 .custom-banner .ov2 { top: 100%; right: 5%; height: 100%; width: 1px;}#layout-article4 .custom-banner .ov3 { right: 100%; bottom: 10%; width: 100%; height: 1px;}#layout-article4 .custom-banner .ov4 { left: 8%; bottom: 100%; height: 100%; width: 1px;}#layout-article4 .custom-banner .ov1, .ov2, .ov3, .ov4 { -webkit-transition: 400ms; -moz-transition: 400ms; -ms-transition: 400ms; -o-transition: 400ms; transition: 400ms; position: absolute; background: #fff; z-index: 1;}#layout-article4 .content-article{ padding: 50px 0;}#layout-article4 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 28px; height: 30px; padding-left: 20px; display: flex; justify-content: left; align-items: center; position: relative; margin: 0px 0px 5px; font-weight: bold; font-size: 35px; color: #000; text-transform: normal;}#layout-article4 .content-article .section-title h2:before{ content: ''; position: absolute; width: 20px; left: 0px; background: #000; top: 44%; height: 3px;}#layout-article4 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color:{color_text};}#layout-article4 .content-article .lg-hide{ display: none;}#layout-article4 .content-article a { display: block; overflow: hidden; border-radius: 5px;}#layout-article4 .content-article a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article4 .content-article a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id": "company_layout_04_thanh-2",
+            "content": [
+                {
+                    "name": "layout_content",
+                    "title": "Mô tả layout",
+                    "value": "\"Bạn có đang lo lắng về chất lượng sản phẩm của chúng tôi. Bạn hãy yên tâm, chúng tôi tự tin với những sản phẩm chúng tôi mang lại cho các bạn. Chúng tôi cam kết chất lượng của từng sản phẩm ! \"",
+                    "type": "text"
+                }
+            ]
+        },
+        {
+            "type": "Company 04",
+            "name": "company_layout_04_thanh-3",
+            "color_bg":"#fff",
+            "color_text":"#015c69",
+            "html": " <div id='layout-article4'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole custom-banner'> <div class='article-img'> <a href='#' class='banner_1'> <div class='ov1'></div> <div class='ov2'></div> <div class='ov3'></div> <div class='ov4'></div> <img src='{layout_img}' alt=''> </a> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> </div></div> </div> </div>",
+            "css": "@media (max-width: 768px) { #layout-article4 .content-article{ text-align: justify !important; } #layout-article4 .sm-hide{ display:none; } #layout-article4 .lg-hide{ display: block !important; }}#layout-article4{ background:{color_bg};} #layout-article4 p{ margin-bottom: 0px; font-size: 25px; margin: 0 auto; font-family: 'Open Sans Condensed', sans-serif; font-weight: bold;}#layout-article4{ padding: 20px 0;}#layout-article4 .custom-banner{ overflow: hidden; position: relative;}#layout-article4 .custom-banner a{ overflow:hidden;}#layout-article4 .custom-banner a:hover .ov1 { left: 0%;}#layout-article4 .custom-banner a:hover .ov2 { top: 0%;}#layout-article4 .custom-banner a:hover .ov3 { right: 0%;}#layout-article4 .custom-banner a:hover .ov4 { bottom:0%;}#layout-article4 .custom-banner a:hover:after{ opacity:0.35;}#layout-article4 .custom-banner a:hover .text-content h2.title, .text-content2 h2.title{ color:#fff;}#layout-article4 .custom-banner a:hover .text-content span { color: #fff; border-color: #fff;}#layout-article4 .custom-banner .banner_1 img{ vertical-align: middle;}#layout-article4 .custom-banner .banner_1 .ov1 { top: 20px;}#layout-article4 .custom-banner .banner_1 .ov2{ right:20px;}#layout-article4 .custom-banner .banner_1 .ov3{ bottom:20px;}#layout-article4 .custom-banner .banner_1 .ov4 { left: 50px;}#layout-article4 .custom-banner .banner_1:after{ height:100%;}#layout-article4 .custom-banner a:after{ content:''; width:100%; height:100%; position:absolute; top:0px; background:red; opacity:0;}#layout-article4 .custom-banner .ov1 { left: 100%; top: 7%; width: 100%; height: 1px;}#layout-article4 .custom-banner .ov2 { top: 100%; right: 5%; height: 100%; width: 1px;}#layout-article4 .custom-banner .ov3 { right: 100%; bottom: 10%; width: 100%; height: 1px;}#layout-article4 .custom-banner .ov4 { left: 8%; bottom: 100%; height: 100%; width: 1px;}#layout-article4 .custom-banner .ov1, .ov2, .ov3, .ov4 { -webkit-transition: 400ms; -moz-transition: 400ms; -ms-transition: 400ms; -o-transition: 400ms; transition: 400ms; position: absolute; background: #fff; z-index: 1;}#layout-article4 .content-article{ padding: 50px 0;}#layout-article4 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 28px; height: 30px; padding-left: 20px; display: flex; justify-content: left; align-items: center; position: relative; margin: 0px 0px 5px; font-weight: bold; font-size: 35px; color: #000; text-transform: normal;}#layout-article4 .content-article .section-title h2:before{ content: ''; position: absolute; width: 20px; left: 0px; background: #000; top: 44%; height: 3px;}#layout-article4 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif;}#layout-article4 .content-article .lg-hide{ display: none;}#layout-article4 .content-article a { display: block; overflow: hidden; border-radius: 5px;}#layout-article4 .content-article a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article4 .content-article a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id": "company_layout_04_thanh-3",
+            "content": [
+                {
+                    "name": "layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "02",
+                    "type": "text"
+                },
+                {
+                    "name": "layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Lâu nay mất vệ sinh an toàn thực phẩm đã trở thành vấn nạn trong xã hội, việc sử dụng chất cấm trong trồng trọt, chăn nuôi, chế biến thực phẩm,… xảy ra một cách tràn lan, không thể kiểm soát. Vấn nạn này đã kéo dài nhiều năm nay và có thể thấy rõ người Việt đang giết chính người Việt. Theo ông Phạm Tất Thắng, nghiên cứu viên cao cấp (Bộ Công Thương), phải khẳng định một điều trong nền kinh tế thị trường, hiện tượng làm hàng giả, hàng nhái là rất dễ xảy ra. Đặc biệt đối với mặt hàng được thị trường chấp nhận và ưa chuộng.\"Và vì vậy để khắc phục tình trạng này chỉ có một cách mà các nền kinh tế thị trường khác đã áp dụng là cần phải phát huy vai trò quản lý nhà nước để ngăn chặn tình trạng này và khi phát hiện ra tình trạng này thì phải trừng trị một các thích đáng để mang tính chất răn đe. Khâu này của chúng ta có đủ các ban bệ như là đăng ký bản quyền, hiệp hội bảo vệ người tiêu dùng…. nhưng hoạt động thực tế của các cơ quan này chưa đủ tầm, thậm chí người ta khi có sự việc giải quyết không triệt để, không sát sao. Khi xảy ra chuyện thì lại bắt đầu đùn đẩy cho nhau\", ông cho biết.Bên cạnh đó, ông Thắng cho hay, có nhiều mặt hàng làm hàng giả hàng nhái rõ ràng đến mức độ nghiêm trọng tuy nhiên căn cứ vào điều luật thì người ta cho biết không đủ cơ sở để kết luận để xử lý. ",
+                    "type": "text"
+                },
+                {
+                    "name": "layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_layout04_blog2.jpg",
+                    "type": "file"
+                }
+            ]
+        },
+        {
+            "type": "Company 04",
+            "name": "company_layout_04_thanh-4",
+            "color_bg":"#fff",
+            "color_text":"#015c69",
+            "html": " <div id='layout-article4'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole custom-banner'> <div class='article-img'> <a href='#' class='banner_1'> <div class='ov1'></div> <div class='ov2'></div> <div class='ov3'></div> <div class='ov4'></div> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article4 .content-article{ text-align: justify !important; } #layout-article4 .sm-hide{ display:none; } #layout-article4 .lg-hide{ display: block !important; }}#layout-article4{background:{color_bg};} #layout-article4 p{ margin-bottom: 0px; font-size: 25px; margin: 0 auto; font-family: 'Open Sans Condensed', sans-serif; font-weight: bold;}#layout-article4{ padding: 20px 0;}#layout-article4 .custom-banner{ overflow: hidden; position: relative;}#layout-article4 .custom-banner a{ overflow:hidden;}#layout-article4 .custom-banner a:hover .ov1 { left: 0%;}#layout-article4 .custom-banner a:hover .ov2 { top: 0%;}#layout-article4 .custom-banner a:hover .ov3 { right: 0%;}#layout-article4 .custom-banner a:hover .ov4 { bottom:0%;}#layout-article4 .custom-banner a:hover:after{ opacity:0.35;}#layout-article4 .custom-banner a:hover .text-content h2.title, .text-content2 h2.title{ color:#fff;}#layout-article4 .custom-banner a:hover .text-content span { color: #fff; border-color: #fff;}#layout-article4 .custom-banner .banner_1 img{ vertical-align: middle;}#layout-article4 .custom-banner .banner_1 .ov1 { top: 20px;}#layout-article4 .custom-banner .banner_1 .ov2{ right:20px;}#layout-article4 .custom-banner .banner_1 .ov3{ bottom:20px;}#layout-article4 .custom-banner .banner_1 .ov4 { left: 50px;}#layout-article4 .custom-banner .banner_1:after{ height:100%;}#layout-article4 .custom-banner a:after{ content:''; width:100%; height:100%; position:absolute; top:0px; background:red; opacity:0;}#layout-article4 .custom-banner .ov1 { left: 100%; top: 7%; width: 100%; height: 1px;}#layout-article4 .custom-banner .ov2 { top: 100%; right: 5%; height: 100%; width: 1px;}#layout-article4 .custom-banner .ov3 { right: 100%; bottom: 10%; width: 100%; height: 1px;}#layout-article4 .custom-banner .ov4 { left: 8%; bottom: 100%; height: 100%; width: 1px;}#layout-article4 .custom-banner .ov1, .ov2, .ov3, .ov4 { -webkit-transition: 400ms; -moz-transition: 400ms; -ms-transition: 400ms; -o-transition: 400ms; transition: 400ms; position: absolute; background: #fff; z-index: 1;}#layout-article4 .content-article{ padding: 50px 0;}#layout-article4 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 28px; height: 30px; padding-left: 20px; display: flex; justify-content: left; align-items: center; position: relative; margin: 0px 0px 5px; font-weight: bold; font-size: 35px; color: #000; text-transform: normal;}#layout-article4 .content-article .section-title h2:before{ content: ''; position: absolute; width: 20px; left: 0px; background: #000; top: 44%; height: 3px;}#layout-article4 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif;color:{color_text};}#layout-article4 .content-article .lg-hide{ display: none;}#layout-article4 .content-article a { display: block; overflow: hidden; border-radius: 5px;}#layout-article4 .content-article a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article4 .content-article a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id": "company_layout_04_thanh-4",
+            "content": [
+                {
+                    "name": "layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "03",
+                    "type": "text"
+                },
+                {
+                    "name": "layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Nghĩ cũng lạ. Suốt một ngày ngồi ru rú trong phòng mà không biết chán. Bốn bề sách vở. Muốn tìm đọc quyển này lại nhặt được quyển kia. Loạn xà ngầu lên cả. Sách nhiều quá. Rồi để làm gì? Sực nhớ, ông Quách Tấn có lần viết:Ngày xưa nếu biết vàng là quý. Đã không mua sách chất chật nhàCâu thơ này, nhớ là nhớ thế. Chẳng thể tin vào trí nhớ. Muốn kiểm chứng lại cũng khó. Sách lung tung cả. Chịu. Thời trẻ, hồi học phổ thông, thích đi dọc theo đường Ông Ích Khiêm, gần chợ Cồn (Đà Nẵng) bởi ở đó có nhiều bà (cô) bán cân ký giấy, báo cũ. Loay hoay tìm ở đó, đôi khi cũng nhặt được vài quyển sách hay. Mấy chục năm sau, thói quen này cũng không bỏ. Ngẫm đi ngẫm lại thấy rằng, sở thích của con người ta đã định hình ngay từ lúc niên thiếu. Nay, vẫn thích lang thang đến chỗ bán sách. Đôi lúc, y thấy thằng trẻ nhỏ trong thân xác của người đàn ông đã ngũ thập. Ngoài 50. Vẫn thèm sách. Cái cảm giác thèm ấy là muốn sờ bằng tay, xem tận mắt những quyển sách mà mình chưa thấy hoặc chỉ nghe nói. Chỉ vậy thôi, chứ không hẳn là phải mua cho bằng được. Có người bảo, tớ có sách này sách kia quý lắm. Quý cái nỗi gì nếu các sách quý ấy chỉ nằm trong kho, không đem ra vận dụng giúp ích cho đời sống hiện tại.",
+                    "type": "text"
+                },
+                {
+                    "name": "layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_layout04_blog3.jpg",
+                    "type": "file"
+                }
+            ]
+        }
+    ],
+    "fashion_layout_06_thanh": [
+        {
+            "type":"Fashion 01",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "name":"fashion_layout_06_thanh-1",
+                "html":"<div id='layout-article6'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform mg-bottom60'> <div class='grid__item large--four-twelfths medium--one-half small--one-whole'> <div class='content-article1 text-left'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> <a href='#'>Xem chi tiết</a> <p>{layout_content}</p> </div> </div> </div> <div class='grid__item large--eight-twelfths medium--one-half small--one-whole custom-banner'> <div class='article-img'> <a href='#' class='banner_1'> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div></div>",
+                "css": ".mg-bottom30{ margin-bottom: 30px;}.mg-bottom60{ margin-bottom: 60px;} @media (max-width: 768px) { #layout-article6 .mg-bottom30{ margin-bottom: 30px;} .mg-bottom60{ margin-bottom: 60px;}#layout-article6 .content-article{ text-align: justify !important;}}#layout-article6{ background:{color_bg};}#layout-article6 .content-article1{ padding: 15px; text-align: center;}#layout-article6 .content-article1 .section-desc{ padding-left: 50px;}#layout-article6 .content-article1 .section-desc a{ border-bottom: solid 1px #000;}#layout-article6 .content-article1 .section-desc p{ margin-bottom: 0px; margin-top: 20px;}.section2-right p{ line-height: 25px; letter-spacing: 0.5px; color: {color_text};}#layout-article6 .section-title h2{ font-family: 'Noticia Text', serif; font-weight: bold !important; font-size: 30px; color: {primary_color};}#layout-article6 .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article6 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article6 .img-banner{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .img-banner a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .img-banner:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}",
+                "id":"fashion_layout_06_thanh-1",
+                "content":[
+                    {
+                        "name":"layout_title",
+                        "title": "Tiêu đề layout",
+                        "value": "Thời trang thập niên 80 & xu hướng mới",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_content",
+                        "title": "Mô tả layout",
+                        "value": "Tủ quần áo của thập niên 80 không dành cho những cô gái với tuyên ngôn “Less is more”. Phong cách những năm 80 tập trung vào sự táo bạo trong kết hợp về màu sắc, kích thước, đường cắt xẻ  và luôn khuyến khích người mặc đưa ra sự thử nghiệm trong thời trang. Tất cả khiến việc ăn mặc trở thành một trò chơi và mọi sáng tạo đều nhằm mang lại niềm vui.Sự sôi nổi, hài hước và thú vị đã khiến thập kỷ này trở thành một điểm nhấn rực rỡ trong lịch sử thời trang.  Chính sự ồn ào, náo nhiệt đấy đã khiến ranh giới giữa thời trang nam và nữ trở nên lu mờ.",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_img",
+                        "title": "Hình ảnh cho layout",
+                        "value": "http://file.hstatic.net/1000234244/file/thanh_blog1_2a652d780fd14a2ea333ef78a27098df.jpg",
+                        "type":"file"
+                    }
+                ]
+        },
+        {
+            "type":"Fashion 01",
+            "name":"fashion_layout_06_thanh-2",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "html":"<div id='layout-article6'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform mg-bottom30'> <div class='grid__item large--one-half medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img1}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title1} </h2> </div> <div class='section-desc'> {layout_content1} </div> </div> </div> </div> <div class='grid__item large--one-half'> <div class='grid-uniform section2-right'> <div class='grid__item large--one-whole'> <div class='section-title'> <h2> {layout_title2} </h2> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-half'> <p>{layout_content2} </p> </div> <div class='grid__item large--one-half medium--one-half small--one-half'> <p> {layout_content3} </p> </div> </div> <div class='grid-uniform'> <div class='grid__item large--four-twelfths medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img4}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title4} </h2> </div> <div class='section-desc'> {layout_content4} </div> </div> </div> </div> <div class='grid__item large--four-twelfths medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img5}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title5} </h2> </div> <div class='section-desc'> {layout_content5} </div> </div> </div> </div> <div class='grid__item large--four-twelfths medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img6}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title6} </h2> </div> <div class='section-desc'> {layout_content6} </div> </div> </div> </div> </div> </div> </div> </div> </div></div>",
+            "css": ".mg-bottom30{ margin-bottom: 30px;}.mg-bottom60{ margin-bottom: 60px;} @media (max-width: 768px) { #layout-article6 .mg-bottom30{ margin-bottom: 30px;}#layout-article6 .mg-bottom60{ margin-bottom: 60px;}#layout-article6 .content-article{ text-align: justify !important;}}#layout-article6{ background:{color_bg};}#layout-article6 .content-article1{ padding: 15px; text-align: center;}#layout-article6 .content-article1 .section-desc{ padding-left: 50px;}#layout-article6 .content-article1 .section-desc a{ border-bottom: solid 1px #000;}#layout-article6 .content-article1 .section-desc p{ margin-bottom: 0px; margin-top: 20px;}.section2-right p{ line-height: 25px; letter-spacing: 0.5px; color: {color_text};}#layout-article6 .section-title h2{ font-family: 'Noticia Text', serif; font-weight: bold !important; font-size: 30px; color: {primary_color};}#layout-article6 .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article6 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article6 .img-banner{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .img-banner a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .img-banner:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}",
+            "id":"fashion_layout_06_thanh-2",
+            "content":[
+                {
+                    "name":"layout_title1",
+                    "title": "Tiêu đề layout 1",
+                    "value": "01",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content1",
+                    "title": "Mô tả layout 1",
+                    "value": "Skinny jean luôn là item yêu thích trong tủ đồ của các chị em trong suốt thời gian vừa qua. Tuy nhiên khi bước sang năm 2018, dường như những chiếc quần jean ôm sát đã không còn đủ sức hút như nó đã từng.Thiết kế bó chịt giúp đôi chân trở nên thon dài những cũng vì vậy mà nó khiến người mặc cảm thấy không thoải mái, khó khăn trong lúc vận động.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout 1",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog2_d1c5e970bdf74ad39c8fd728bf8ebd13.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title2",
+                    "title": "Tiêu đề layout 2",
+                    "value": "Xu hướng thời trang năm 2013",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content2",
+                    "title": "Mô tả layout 2",
+                    "value": "Trong thế giới thời trang của con trai, quần sẽ chỉ gồm quần dài, quần shorts và cùng lắm là quần lửng. Bởi vậy tất nhiên trăm kiểu tên rắc rối cho những xu hướng quần của con gái là điều họ không thể nhớ nổi, trong số đó có jeggings.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content3",
+                    "title": "Mô tả layout 3",
+                    "value": " Món đồ này chính là sự kết hợp thú vị giữa shorts và skirt, tạo nên item mang tên skort - những chiếc quần shorts giả váy. Đúng như tính chất của nó, skort thoạt nhìn từ phía trước sẽ khiến người ta nghĩ rằng đây là một chiếc váy... 'siêu ngắn'.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_title4",
+                    "title": "Tiêu đề layout",
+                    "value": "02",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content4",
+                    "title": "Mô tả layout",
+                    "value": "Trong thế giới thời trang của con trai, quần sẽ chỉ gồm quần dài, quần shorts và cùng lắm là quần lửng.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img4",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog3_fbc0fac7141949ebb588de0dd7c95c3f.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title5",
+                    "title": "Tiêu đề layout",
+                    "value": "03",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content5",
+                    "title": "Mô tả layout",
+                    "value": "Món đồ này chính là sự kết hợp thú vị giữa shorts và skirt, tạo nên item mang tên skort - những chiếc quần shorts giả váy.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img5",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog4_77dada65ca6d4a08abf2fd1ee759788c.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title6",
+                    "title": "Tiêu đề layout",
+                    "value": "04",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content6",
+                    "title": "Mô tả layout",
+                    "value": "Sự kết hợp độc đáo này không chỉ mang tới một món đồ trendy mà còn giúp các bạn gái cảm thấy mát mẻ, thoải mái hơn khi diện đồ ngắn",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img6",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog5_17fb1f52526f43ccb7c6574a863e2574.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Fashion 01",
+            "name":"fashion_layout_06_thanh-3",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "html":"<div id='layout-banner6'> <div class='wrapper'> <div class='inner'> <div class='grid mg-bottom60'> <div class='grid__item large--one-whole medium--one-whole small--one-whole'> <div class='img-banner'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div></div>",
+            "css": ".mg-bottom30{ margin-bottom: 30px;}.mg-bottom60{ margin-bottom: 60px;} #layout-banner6 { background:{color_bg};} #layout-banner6 .img-banner{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-banner6 .img-banner a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-banner6 .img-banner:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}",
+            "id":"fashion_layout_06_thanh-3",
+            "content":[
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_banner1.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Fashion 01",
+            "name":"fashion_layout_06_thanh-4",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+                "html":"<div id='layout-article6'> <div class='wrapper'> <div class='inner'> <div class='grid mg-bottom30'> <div class='grid__item large--one-half'> <div class='grid section2-right'> <div class='grid__item large--one-whole'> <div class='section-title'> <h2> {layout_title1} </h2> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-half'> <p>{layout_content1} </p> </div> <div class='grid__item large--one-half medium--one-half small--one-half'> <p>{layout_content2} </p> </div> </div> <div class='grid-uniform'> <div class='grid__item large--four-twelfths medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img3}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title3} </h2> </div> <div class='section-desc'> {layout_content3} </div> </div> </div> </div> <div class='grid__item large--four-twelfths medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img4}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title4} </h2> </div> <div class='section-desc'> {layout_content4} </div> </div> </div> </div> <div class='grid__item large--four-twelfths medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img5}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title5} </h2> </div> <div class='section-desc'> {layout_content5} </div> </div> </div> </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img6}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title6} </h2> </div> <div class='section-desc'> {layout_content6} </div> </div> </div> </div> </div> </div> </div></div>",
+                "css": ".mg-bottom30{ margin-bottom: 30px;}.mg-bottom60{ margin-bottom: 60px;} @media (max-width: 768px) { #layout-article6 .mg-bottom30{ margin-bottom: 30px;}#layout-article6 .mg-bottom60{ margin-bottom: 60px;}#layout-article6 .content-article{ text-align: justify !important;}}#layout-article6{ background:{color_bg};}#layout-article6 .content-article1{ padding: 15px; text-align: center;}#layout-article6 .content-article1 .section-desc{ padding-left: 50px;}#layout-article6 .content-article1 .section-desc a{ border-bottom: solid 1px #000;}#layout-article6 .content-article1 .section-desc p{ margin-bottom: 0px; margin-top: 20px;}.section2-right p{ line-height: 25px; letter-spacing: 0.5px; color: {color_text};}#layout-article6 .section-title h2{ font-family: 'Noticia Text', serif; font-weight: bold !important; font-size: 30px; color: {primary_color};}#layout-article6 .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article6 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article6 .img-banner{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .img-banner a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article6 .img-banner:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}",
+                "id":"fashion_layout_06_thanh-4",
+                "content":[
+                    {
+                        "name":"layout_title1",
+                        "title": "Tiêu đề layout 1",
+                        "value": "Xu hướng thời trang năm 2013",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_content1",
+                        "title": "Mô tả layout 1",
+                        "value": "Trong thế giới thời trang của con trai, quần sẽ chỉ gồm quần dài, quần shorts và cùng lắm là quần lửng. Bởi vậy tất nhiên trăm kiểu tên rắc rối cho những xu hướng quần của con gái là điều họ không thể nhớ nổi, trong số đó có jeggings.",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_content2",
+                        "title": "Mô tả layout 2",
+                        "value": " Món đồ này chính là sự kết hợp thú vị giữa shorts và skirt, tạo nên item mang tên skort - những chiếc quần shorts giả váy. Đúng như tính chất của nó, skort thoạt nhìn từ phía trước sẽ khiến người ta nghĩ rằng đây là một chiếc váy... 'siêu ngắn'.",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_title3",
+                        "title": "Tiêu đề layout",
+                        "value": "05",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_content3",
+                        "title": "Mô tả layout",
+                        "value": "Trong thế giới thời trang của con trai, quần sẽ chỉ gồm quần dài, quần shorts và cùng lắm là quần lửng.",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_img3",
+                        "title": "Hình ảnh cho layout",
+                        "value": "http://file.hstatic.net/1000234244/file/thanh_blog3_fbc0fac7141949ebb588de0dd7c95c3f.jpg",
+                        "type":"file"
+                    },
+                    {
+                        "name":"layout_title4",
+                        "title": "Tiêu đề layout",
+                        "value": "05",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_content4",
+                        "title": "Mô tả layout",
+                        "value": "Món đồ này chính là sự kết hợp thú vị giữa shorts và skirt, tạo nên item mang tên skort - những chiếc quần shorts giả váy.",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_img4",
+                        "title": "Hình ảnh cho layout",
+                        "value": "http://file.hstatic.net/1000234244/file/thanh_blog4_77dada65ca6d4a08abf2fd1ee759788c.jpg",
+                        "type":"file"
+                    },
+                    {
+                        "name":"layout_title5",
+                        "title": "Tiêu đề layout",
+                        "value": "06",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_content5",
+                        "title": "Mô tả layout",
+                        "value": "Sự kết hợp độc đáo này không chỉ mang tới một món đồ trendy mà còn giúp các bạn gái cảm thấy mát mẻ, thoải mái hơn khi diện đồ ngắn",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_img5",
+                        "title": "Hình ảnh cho layout",
+                        "value": "http://file.hstatic.net/1000234244/file/thanh_blog5_17fb1f52526f43ccb7c6574a863e2574.jpg",
+                        "type":"file"
+                    },
+                    {
+                        "name":"layout_title6",
+                        "title": "Tiêu đề layout 6",
+                        "value": "07",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_content6",
+                        "title": "Mô tả layout 6",
+                        "value": "Skinny jean luôn là item yêu thích trong tủ đồ của các chị em trong suốt thời gian vừa qua. Tuy nhiên khi bước sang năm 2018, dường như những chiếc quần jean ôm sát đã không còn đủ sức hút như nó đã từng.Thiết kế bó chịt giúp đôi chân trở nên thon dài những cũng vì vậy mà nó khiến người mặc cảm thấy không thoải mái, khó khăn trong lúc vận động.",
+                        "type":"text"
+                    },
+                    {
+                        "name":"layout_img6",
+                        "title": "Hình ảnh cho layout 6",
+                        "value": "http://file.hstatic.net/1000234244/file/thanh_blog7_178a4509ab7841428f48188bf5faa484.jpg",
+                        "type":"file"
+                    }
+                ]
+        }
+    ],
+    "wedding_layout_05_thanh": [
+        {
+            "type":"Wedding 05",
+            "name":"wedding_layout_05_thanh-1",
+            "color_bg":"#FFF7F1",
+            "color_text":"#015c69",
+            "html":" <div id='layout-article5'> <div class='wrapper'> <div class='inner'> <div class='grid mg-bottom30'> <div class='grid__item large--one-whole'> <div class='article-item3'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article5 .large--four-twelfths{ margin-bottom: 30px;}#layout-article5 .article-item3 .content-article{ position: static !important; text-align: justify !important;}}#layout-article5{ background:{color_bg}; padding: 40px 0 0px 0;}#layout-article5 .mg-bottom30{ margin-bottom: 30px;}#layout-article5 .article-item3{ position: relative; width: 100%;}#layout-article5 .article-item3 .article-img{ position: relative;}#layout-article5 .article-item3 .article-img::before { position: absolute; top: 0; left: -75%; z-index: 2; display: block; content: ''; width: 50%; height: 100%; background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%); background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%); -webkit-transform: skewX(-25deg); transform: skewX(-25deg);}#layout-article5 .article-item3 .article-img:hover::before { -webkit-animation: shine .75s; animation: shine .75s;}#layout-article5 .article-item3 .article-img @-webkit-keyframes shine 100% { left: 125%;}#layout-article5 .article-item3 .article-img @keyframes shine 100% { left: 125%;}#layout-article5 .article-item3 .content-article{ position: absolute; left: 50%; z-index: 9; top: 55px; background: #fff; padding: 20px;}#layout-article5 .article-item3 .content-article .section-desc{ line-height: 25px; letter-spacing: 0.5px; font-family: 'Open Sans Condensed', sans-serif; color: {color_text};}#layout-article5 .article-item3 .content-article .section-title h2{ font-family: 'Dancing Script', cursive; color: {primary_color};}",
+            "id":"wedding_layout_05_thanh-1",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "100 Tư thế tạo dáng chụp ảnh cưới đẹp",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Tư thế này rất dễ tạo dáng cho cả cô dâu và chú rể, chỉ cần chú rể ôm cô dâu thật chặt, đôi mắt 2 người trao nhau thật đắm đuối và chỉ nghĩ về nhau. Cô dâu tay cầm bó hoa cưới, ôm sát vai chú rể như đang ôm giữ một “kho tàng” tình yêu bễn vững mãi mãi đi suốt cuộc đời.Còn gì tuyệt vời hơn khi trao nhau tình yêu mãnh liệt bằng một nụ hôn say đắm và nồng nàn. Cô dâu nằm trên giường trong bộ váy cưới trắng tuyền tay quàng vào ngực chú rể, chân duỗi thẳng để lộ chân thon, chú rễ ngồi dưới trong bộ vest hoàng tử. Tư thế 2 người thật thả lỏng tự nhiên và cùng nhắm mắt để nhẹ nhàng môi chạm môi, mắt gần mắt.Nếu đã ngán ngẩm với những ý tưởng chụp ảnh cưới trên đất liền, bạn có thể cùng cô dâu làm nên những bức ảnh độc và lạ dưới nước. Tư thế nắm tay và ánh mắt luôn hướng vào nhau trong khi bơi, cùng nhau vượt qua những phong ba bão táp để hạnh phúc bên nhau trọn đời.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog1_17e2daceaea14815baa64e1b4fc117ff.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Wedding 05",
+            "name":"wedding_layout_05_thanh-2",
+            "color_bg":"#FFF7F1",
+            "color_text":"#015c69",
+            "html":" <div id='layout-article5'> <div class='wrapper'> <div class='inner'> <div class='grid mg-bottom30'> <div class='grid__item large--one-whole'> <div class='article-item3'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article5 .large--four-twelfths{ margin-bottom: 30px;}#layout-article5 .article-item3 .content-article{ position: static !important; text-align: justify !important;}}#layout-article5{ background:{color_bg}; padding: 40px 0 0px 0;}#layout-article5 .mg-bottom30{ margin-bottom: 30px;}#layout-article5 .article-item3{ position: relative; width: 100%;}#layout-article5 .article-item3 .article-img{ position: relative;}#layout-article5 .article-item3 .article-img::before { position: absolute; top: 0; left: -75%; z-index: 2; display: block; content: ''; width: 50%; height: 100%; background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%); background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%); -webkit-transform: skewX(-25deg); transform: skewX(-25deg);}#layout-article5 .article-item3 .article-img:hover::before { -webkit-animation: shine .75s; animation: shine .75s;}#layout-article5 .article-item3 .article-img @-webkit-keyframes shine 100% { left: 125%;}#layout-article5 .article-item3 .article-img @keyframes shine 100% { left: 125%;}#layout-article5 .article-item3 .content-article{ position: absolute; left: 50%; z-index: 9; top: 55px; background: #fff; padding: 20px;}#layout-article5 .article-item3 .content-article .section-desc{ line-height: 25px; letter-spacing: 0.5px; font-family: 'Open Sans Condensed', sans-serif; color: {color_text};}#layout-article5 .article-item3 .content-article .section-title h2{ font-family: 'Dancing Script', cursive; color: {primary_color};}",
+            "id":"wedding_layout_05_thanh-2",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Những điều cần lưu ý khi chụp ảnh cưới",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Chụp ảnh cưới là một cuộc dạo chơi, hãy coi nó như là một buổi hẹn hò lãng mạn, để vừa tạo không khí tự nhiên, vừa không mệt mỏi khi chụp ảnh. Bạn nên tìm những hoạt động mà cả hai cùng thích như đi dạo, chạy bộ, mua sắm, đạp xe hay làm tất cả những việc quen thuộc để thực hiện trong ngày chụp ảnh. Khi đó, nhiếp ảnh gia sẽ ghi lại được những khoảnh khắc lãng mạn và thân mật nhất.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog4_963445496eb24790b15a51cf04bf20f9.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Wedding 05",
+            "name":"wedding_layout_05_thanh-3",
+            "color_bg":"#FFF7F1",
+            "color_text":"#015c69",
+            "html":" <div id='layout-article5'> <div class='wrapper'> <div class='inner'> <div class='grid mg-bottom30'> <div class='grid__item large--one-whole'> <div class='article-item3'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article5 .large--four-twelfths{ margin-bottom: 30px;}#layout-article5 .article-item3 .content-article{ position: static !important; text-align: justify !important;}}#layout-article5{ background:{color_bg}; padding: 40px 0 0px 0;}#layout-article5 .mg-bottom30{ margin-bottom: 30px;}#layout-article5 .article-item3{ position: relative; width: 100%;}#layout-article5 .article-item3 .article-img{ position: relative;}#layout-article5 .article-item3 .article-img::before { position: absolute; top: 0; left: -75%; z-index: 2; display: block; content: ''; width: 50%; height: 100%; background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%); background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,.3) 100%); -webkit-transform: skewX(-25deg); transform: skewX(-25deg);}#layout-article5 .article-item3 .article-img:hover::before { -webkit-animation: shine .75s; animation: shine .75s;}#layout-article5 .article-item3 .article-img @-webkit-keyframes shine 100% { left: 125%;}#layout-article5 .article-item3 .article-img @keyframes shine 100% { left: 125%;}#layout-article5 .article-item3 .content-article{ position: absolute; left: 50%; z-index: 9; top: 55px; background: #fff; padding: 20px;}#layout-article5 .article-item3 .content-article .section-desc{ line-height: 25px; letter-spacing: 0.5px; font-family: 'Open Sans Condensed', sans-serif; color: {color_text};}#layout-article5 .article-item3 .content-article .section-title h2{ font-family: 'Dancing Script', cursive; color: {primary_color};}",
+            "id":"wedding_layout_05_thanh-3",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Những điều cần lưu ý khi chụp ảnh cưới",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Chụp ảnh cưới là một cuộc dạo chơi, hãy coi nó như là một buổi hẹn hò lãng mạn, để vừa tạo không khí tự nhiên, vừa không mệt mỏi khi chụp ảnh. Bạn nên tìm những hoạt động mà cả hai cùng thích như đi dạo, chạy bộ, mua sắm, đạp xe hay làm tất cả những việc quen thuộc để thực hiện trong ngày chụp ảnh. Khi đó, nhiếp ảnh gia sẽ ghi lại được những khoảnh khắc lãng mạn và thân mật nhất.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog5_1a10036282f04869863a9ff544f7954e.jpg",
+                    "type":"file"
+                }
+            ]
+        }
+    ],
+    "wedding_layout_03_thanh":[
+        {
+            "type":"Wedding 03",
+            "name":"wedding_layout_03_thanh-1",
+            "color_bg":"#FFF7F1",
+            "color_text":"#015c69",
+            "html":" <div id='layout-article3'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-whole'> <div class='article-item1'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> </div> </div> </div></div></div>",
+            "css": "@media (max-width: 768px) { #layout-article3 .content-article{ text-align: justify !important;}#layout-article3 .large--four-twelfths{ margin-bottom: 30px;}#layout-article3 .article-item1 .content-article{ position: static !important; text-align: justify !important;}}#layout-article3{ background:{color_bg}; padding: 40px 0 0px 0;}#layout-article3 .article-item1{ position: relative; width: 100%;}#layout-article3 .article-item1 .content-article{ position: absolute; left: 50%; z-index: 9; top: 20%; background: #fff; padding: 20px;}#layout-article3 .article-item1 .content-article .section-desc{ line-height: 25px; letter-spacing: 0.5px; font-family: 'Open Sans Condensed', sans-serif; color: {color_text};}#layout-article3 .article-item1 .content-article .section-title h2{ font-family: 'Dancing Script', cursive; color: {primary_color};}",
+            "id":"wedding_layout_03_thanh-1",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "100 Tư thế tạo dáng chụp ảnh cưới đẹp",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Tư thế này rất dễ tạo dáng cho cả cô dâu và chú rể, chỉ cần chú rể ôm cô dâu thật chặt, đôi mắt 2 người trao nhau thật đắm đuối và chỉ nghĩ về nhau. Cô dâu tay cầm bó hoa cưới, ôm sát vai chú rể như đang ôm giữ một “kho tàng” tình yêu bễn vững mãi mãi đi suốt cuộc đời.Còn gì tuyệt vời hơn khi trao nhau tình yêu mãnh liệt bằng một nụ hôn say đắm và nồng nàn. Cô dâu nằm trên giường trong bộ váy cưới trắng tuyền tay quàng vào ngực chú rể, chân duỗi thẳng để lộ chân thon, chú rễ ngồi dưới trong bộ vest hoàng tử. Tư thế 2 người thật thả lỏng tự nhiên và cùng nhắm mắt để nhẹ nhàng môi chạm môi, mắt gần mắt.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog1.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Wedding 03",
+            "name":"wedding_layout_03_thanh-2",
+            "color_bg":"#FFF7F1",
+            "color_text":"#015c69",
+            "html":"<div id='layout-article3' class='mb-160'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--four-twelfths'> <div class='article-item2'> <div class='article-img'> <a href='#'> <img src='{layout_img1}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title1} </h2> </div> <div class='section-desc'> {layout_content1} </div> </div> </div> </div> <div class='grid__item large--eight-twelfths'> <div class='article-item2'> <div class='article-img'> <a href='#'> <img src='{layout_img2}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title2} </h2> </div> <div class='section-desc'> {layout_content2} </div> </div> </div> </div> </div></div></div></div>",
+            "css": "@media (max-width: 768px) { #layout-article3 .content-article{ text-align: justify !important;}#layout-article3 .large--four-twelfths{ margin-bottom: 30px;}#layout-article3 .article-item2 .content-article{ position: static !important; text-align: justify !important;}}#layout-article3{ background:{color_bg}; padding: 40px 0 0px 0;}.mb-160{ margin-bottom:160px;}#layout-article3 .article-item2{ position: relative; width: 100%;}#layout-article3 .article-item2 .content-article{ position: absolute; left: 5%; z-index: 9; background: #fff; padding: 20px; top: 75%; right: 5%;}#layout-article3 .article-item2 .content-article .section-title h2{ font-family: 'Dancing Script', cursive; color: {primary_color};}#layout-article3 .article-item2 .content-article .section-desc{ line-height: 25px; letter-spacing: 0.5px; font-family: 'Open Sans Condensed', sans-serif; color: {color_text};}",
+            "id":"wedding_layout_03_thanh-2",
+            "content":[
+                {
+                    "name":"layout_title1",
+                    "title": "Tiêu đề layout",
+                    "value": "Những điều cần lưu ý khi chụp ảnh cưới",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content1",
+                    "title": "Mô tả layout",
+                    "value": "Chụp ảnh cưới là một cuộc dạo chơi, hãy coi nó như là một buổi hẹn hò lãng mạn, để vừa tạo không khí tự nhiên, vừa không mệt mỏi khi chụp ảnh. Bạn nên tìm những hoạt động mà cả hai cùng thích như đi dạo, chạy bộ, mua sắm, đạp xe hay làm tất cả những việc quen thuộc để thực hiện trong ngày chụp ảnh. Khi đó, nhiếp ảnh gia sẽ ghi lại được những khoảnh khắc lãng mạn và thân mật nhất.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog2.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title2",
+                    "title": "Tiêu đề layout",
+                    "value": "Những điều cần lưu ý khi chọn váy cưới",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content2",
+                    "title": "Mô tả layout",
+                    "value": "Studio ảnh cưới hàng đầu tại Việt Nam Bạn chuẩn bị lập gia đình? Bạn muốn có một cuốn album ảnh cưới đẹp và độc đáo? Bạn mong muốn khán giả trầm trồ thích thú khi chiêm ngưỡng cuốn album ảnh cưới của mình? Bạn cần một dịch vụ hoàn hảo, xứng đáng để đặt niềm tin tuyệt đối cho ngày quan trọng và ý nghĩa nhất của đời người? Hãy trao gửi niềm tin tại Suplo Wedding - Chúng tôi có Năng lực giải đáp tất cả những mong muốn của Bạn và đảm bảo đem tới Quý khách những sản phẩm tốt nhất, giá trị trường tồn cùng thời gian!",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img2",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog3_713919048b8f42218d5edbe44a5bd705.jpg",
+                    "type":"file"
+                }
+            ]
+        }
+    ],
+    "holiday_layout_02_thanh":[
+        {
+            "type":"Holiday 02",
+            "name":"holiday_layout_02_thanh-1",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "html":" <div id='layout-article2'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-third medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img1}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title1} </h2> </div> <div class='section-desc'> {layout_content1} </div> </div> </div> </div> <div class='grid__item large--one-third medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img2}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title2} </h2> </div> <div class='section-desc'> {layout_content2} </div> </div> </div></div><div class='grid__item large--one-third medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img3}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title3} </h2> </div> <div class='section-desc'> {layout_content3} </div> </div></div></div></div> </div></div></div>",
+            "css": "@media (max-width: 768px) { #layout-article2 .content-article{ text-align: justify !important; }}#layout-article2{ background:{color_bg};}#layout-article2 .mg-bottom30{ margin-bottom: 30px;}#layout-article2 .article-item{ -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5); -moz-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5); box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5);}#layout-article2 .content-article{ padding: 15px; background: #fff; text-align: center;}#layout-article2 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 22px; color: #000;}#layout-article2 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 35px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article2 .content-article .section-btn a{ background: #ADC743; padding: 10px 25px; font-size: 18px; color: #fff; font-family: 'Open Sans', sans-serif;}#layout-article2 .article-img{ border-bottom: solid 5px {primary_color}; overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article2 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article2 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}",
+            "id":"holiday_layout_02_thanh-1",
+            "content":[
+                {
+                    "name":"layout_title1",
+                    "title": "Tiêu đề layout 1",
+                    "value": "Đồng Mô - cho các cô thích quẩy",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content1",
+                    "title": "Mô tả layout 1",
+                    "value": "Sơn Tinh Camp là khu cắm trại đầu tiên tại Hà Nội rộng khoảng 40 ha, nằm trong quần thể khu du lịch Đồng Mô và Làng Văn hóa các dân tộc Việt nam. Khí hậu ở đây vô cùng trong lành và dễ chịu, khung cảnh hữu tình. Vì đây là khu dã ngoại kết hợp với team building nên bạn không cần chuẩn bị lều trại vì ở đây có đầy đủ các mô hình cắm trại.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout 1",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog3.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title2",
+                    "title": "Tiêu đề layout 2",
+                    "value": "Những cung đường trekking đẹp",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content2",
+                    "title": "Mô tả layout 2",
+                    "value": "Lùng Cúng: Cao 2.913 m với mây trắng bao phủ quanh năm, đỉnh Lùng Cúng được đặt theo tên một bản nằm sâu trong vùng núi hiểm trở bậc nhất tại xã Nậm Có, huyện Mù Cang Chải, tỉnh Yên Bái. Muốn tới đây, du khách có thể leo từ 3 hướng khác nhau (từ bản Thào Chua Chải, bản Lùng Cúng hoặc bản Tu San).",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img2",
+                    "title": "Hình ảnh cho layout 2",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog4.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title3",
+                    "title": "Tiêu đề layout 3",
+                    "value": "Vượt qua giới hạn bản thân",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content3",
+                    "title": "Mô tả layout 3",
+                    "value": "Tà Năng - Phan Dũng: Với độ dài hơn 50 km, Tà Năng - Phan Dũng trải qua 3 tỉnh Lâm Đồng, Ninh Thuận và Bình Thuận và được mệnh danh là cung đường rừng trekking đẹp nhất Việt Nam. Tuy nhiên, đây lại là điểm du lịch rất khó chinh phục và đặc biệt nguy hiểm trong mùa mưa bởi tính chất địa hình đồi núi. Ảnh: Nguyễn Trường Giang.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img3",
+                    "title": "Hình ảnh cho layout 3",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog5.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Holiday 02",
+            "name":"holiday_layout_02_thanh-2",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "html":" <div id='layout-article2'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-third medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img1}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title1} </h2> </div> <div class='section-desc'> {layout_content1} </div> </div> </div> </div> <div class='grid__item large--one-third medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img2}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title2} </h2> </div> <div class='section-desc'> {layout_content2} </div> </div> </div></div><div class='grid__item large--one-third medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img3}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title3} </h2> </div> <div class='section-desc'> {layout_content3} </div> </div></div></div></div> </div></div></div>",
+            "css": "@media (max-width: 768px) { #layout-article2 .content-article{ text-align: justify !important; }}#layout-article2{ background:{color_bg};}#layout-article2 .mg-bottom30{ margin-bottom: 30px;}#layout-article2 .article-item{ -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5); -moz-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5); box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5);}#layout-article2 .content-article{ padding: 15px; background: #fff; text-align: center;}#layout-article2 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 22px; color: #000;}#layout-article2 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 35px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article2 .content-article .section-btn a{ background: #ADC743; padding: 10px 25px; font-size: 18px; color: #fff; font-family: 'Open Sans', sans-serif;}#layout-article2 .article-img{ border-bottom: solid 5px {primary_color}; overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article2 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article2 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}",
+            "id":"holiday_layout_02_thanh-2",
+            "content":[
+                {
+                    "name":"layout_title1",
+                    "title": "Tiêu đề layout 1",
+                    "value": "Đồng Mô - cho các cô thích quẩy",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content1",
+                    "title": "Mô tả layout 1",
+                    "value": "Sơn Tinh Camp là khu cắm trại đầu tiên tại Hà Nội rộng khoảng 40 ha, nằm trong quần thể khu du lịch Đồng Mô và Làng Văn hóa các dân tộc Việt nam. Khí hậu ở đây vô cùng trong lành và dễ chịu, khung cảnh hữu tình. Vì đây là khu dã ngoại kết hợp với team building nên bạn không cần chuẩn bị lều trại vì ở đây có đầy đủ các mô hình cắm trại.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout 1",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog6.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title2",
+                    "title": "Tiêu đề layout 2",
+                    "value": "Những cung đường trekking đẹp",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content2",
+                    "title": "Mô tả layout 2",
+                    "value": "Lùng Cúng: Cao 2.913 m với mây trắng bao phủ quanh năm, đỉnh Lùng Cúng được đặt theo tên một bản nằm sâu trong vùng núi hiểm trở bậc nhất tại xã Nậm Có, huyện Mù Cang Chải, tỉnh Yên Bái. Muốn tới đây, du khách có thể leo từ 3 hướng khác nhau (từ bản Thào Chua Chải, bản Lùng Cúng hoặc bản Tu San).",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img2",
+                    "title": "Hình ảnh cho layout 2",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog7.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title3",
+                    "title": "Tiêu đề layout 3",
+                    "value": "Vượt qua giới hạn bản thân",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content3",
+                    "title": "Mô tả layout 3",
+                    "value": "Tà Năng - Phan Dũng: Với độ dài hơn 50 km, Tà Năng - Phan Dũng trải qua 3 tỉnh Lâm Đồng, Ninh Thuận và Bình Thuận và được mệnh danh là cung đường rừng trekking đẹp nhất Việt Nam. Tuy nhiên, đây lại là điểm du lịch rất khó chinh phục và đặc biệt nguy hiểm trong mùa mưa bởi tính chất địa hình đồi núi. Ảnh: Nguyễn Trường Giang.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img3",
+                    "title": "Hình ảnh cho layout 3",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog8.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Holiday 02",
+            "name":"holiday_layout_02_thanh-3",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "html":" <div id='layout-article2'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-third medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img1}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title1} </h2> </div> <div class='section-desc'> {layout_content1} </div> </div> </div> </div> <div class='grid__item large--one-third medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img2}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title2} </h2> </div> <div class='section-desc'> {layout_content2} </div> </div> </div></div><div class='grid__item large--one-third medium--one-half small--one-whole mg-bottom30'> <div class='article-item'> <div class='article-img'> <a href='#'> <img src='{layout_img3}' alt=''> </a> </div> <div class='content-article'> <div class='section-title'> <h2> {layout_title3} </h2> </div> <div class='section-desc'> {layout_content3} </div> </div></div></div></div> </div></div></div>",
+            "css": "@media (max-width: 768px) { #layout-article2 .content-article{ text-align: justify !important; }}#layout-article2{ background:{color_bg};}#layout-article2 .mg-bottom30{ margin-bottom: 30px;}#layout-article2 .article-item{ -webkit-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5); -moz-box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5); box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.5);}#layout-article2 .content-article{ padding: 15px; background: #fff; text-align: center;}#layout-article2 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 22px; color: #000;}#layout-article2 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 35px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article2 .content-article .section-btn a{ background: #ADC743; padding: 10px 25px; font-size: 18px; color: #fff; font-family: 'Open Sans', sans-serif;}#layout-article2 .article-img{ border-bottom: solid 5px {primary_color}; overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article2 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article2 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}",
+            "id":"holiday_layout_02_thanh-3",
+            "content":[
+                {
+                    "name":"layout_title1",
+                    "title": "Tiêu đề layout 1",
+                    "value": "Đồng Mô - cho các cô thích quẩy",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content1",
+                    "title": "Mô tả layout 1",
+                    "value": "Sơn Tinh Camp là khu cắm trại đầu tiên tại Hà Nội rộng khoảng 40 ha, nằm trong quần thể khu du lịch Đồng Mô và Làng Văn hóa các dân tộc Việt nam. Khí hậu ở đây vô cùng trong lành và dễ chịu, khung cảnh hữu tình. Vì đây là khu dã ngoại kết hợp với team building nên bạn không cần chuẩn bị lều trại vì ở đây có đầy đủ các mô hình cắm trại.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout 1",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog9.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title2",
+                    "title": "Tiêu đề layout 2",
+                    "value": "Những cung đường trekking đẹp",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content2",
+                    "title": "Mô tả layout 2",
+                    "value": "Lùng Cúng: Cao 2.913 m với mây trắng bao phủ quanh năm, đỉnh Lùng Cúng được đặt theo tên một bản nằm sâu trong vùng núi hiểm trở bậc nhất tại xã Nậm Có, huyện Mù Cang Chải, tỉnh Yên Bái. Muốn tới đây, du khách có thể leo từ 3 hướng khác nhau (từ bản Thào Chua Chải, bản Lùng Cúng hoặc bản Tu San).",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img2",
+                    "title": "Hình ảnh cho layout 2",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog10.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title3",
+                    "title": "Tiêu đề layout 3",
+                    "value": "Vượt qua giới hạn bản thân",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content3",
+                    "title": "Mô tả layout 3",
+                    "value": "Tà Năng - Phan Dũng: Với độ dài hơn 50 km, Tà Năng - Phan Dũng trải qua 3 tỉnh Lâm Đồng, Ninh Thuận và Bình Thuận và được mệnh danh là cung đường rừng trekking đẹp nhất Việt Nam. Tuy nhiên, đây lại là điểm du lịch rất khó chinh phục và đặc biệt nguy hiểm trong mùa mưa bởi tính chất địa hình đồi núi. Ảnh: Nguyễn Trường Giang.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img3",
+                    "title": "Hình ảnh cho layout 3",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog11.jpg",
+                    "type":"file"
+                }
+            ]
+        }
+    ],
+    "food_layout_01_thanh":[
+        {
+            "type":"Food 01",
+            "name":"food_layout_01_thanh-1",
+            "color_bg":"#efefef",
+            "color_text":"#949494",
+            "html":"<div id='layout-article1'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-right'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div> </div>",
+            "css": "@media (max-width: 768px) { #layout-article1 .content-article{ text-align: justify !important; } #layout-article1 .sm-hide{ display:none; } #layout-article1 .lg-hide{ display: block !important; }}#layout-article1{ background: {color_bg}; padding: 20px 0; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; overflow: hidden;}#layout-article1 .content-article{ border-top: solid 5px {primary_color}; padding: 20px 0;}#layout-article1 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 28px; color: {color_text}}#layout-article1 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text}}#layout-article1 .content-article .section-btn a{ background: {primary_color}; padding: 10px 25px; font-size: 18px; color: #fff; font-family: 'Open Sans', sans-serif;}#layout-article1 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article1 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article1 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article1 .lg-hide{ display: none;}",
+            "id":"food_layout_01_thanh-1",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Cách chế biến thực phẩm tốt nhất",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Người xưa có câu “nhất dáng nhì da” cho thấy làn da rất quan trọng trong việc thu hút người đối diện. Đối với người có cơ địa dễ lên mụn thì cần phải có một chế độ sinh hoạt cũng như ăn uống điều độ hợp lý. Ăn uống nuôi dưỡng cơ thể từ bên trong nên có tác động tích cực đến sức khỏe, đặc biệt là làn da của bạn sẽ láng mịn, khỏe đẹp lên trông thấy nếu thường xuyên sử dụng những thực phẩm dưới đây.Trong thực đơn hằng ngày, ngoài ăn nhiều rau và uống nhiều nước để làn da luôn được dưỡng ẩm, bạn cần cung cấp vitamin và khoáng chất để cơ thể hấp thu, chuyển hóa và thúc đẩy quá trình tiêu hóa.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/layout_thanh_blog1.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Food 01",
+            "name":"food_layout_01_thanh-2",
+            "color_bg":"#efefef",
+            "color_text":"#949494",
+            "html":" <div id='layout-article1'> <div class='wrapper'> <div class='inner'> <div class='grid sm-hide'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> </div> <div class='grid lg-hide'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div> </div>",
+            "css": "@media (max-width: 768px) { #layout-article1 .content-article{ text-align: justify !important; } #layout-article1 .sm-hide{ display:none; } #layout-article1 .lg-hide{ display: block !important; }}#layout-article1{ background: {color_bg}; padding: 20px 0; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; overflow: hidden;}#layout-article1 .content-article{ border-top: solid 5px {primary_color}; padding: 20px 0;}#layout-article1 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 28px; color: {color_text}}#layout-article1 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text}}#layout-article1 .content-article .section-btn a{ background: {primary_color}; padding: 10px 25px; font-size: 18px; color: #fff; font-family: 'Open Sans', sans-serif;}#layout-article1 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article1 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article1 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article1 .lg-hide{ display: none;}",
+            "id":"food_layout_01_thanh-2",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Làm sao để chọn được thực phẩm sạch",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Đối với rau, trái cây, chị em nên chọn loại tươi nguyên, không bị bầm giập thối hay đã rụng cuống. Đồng thời, bạn cũng tránh mua rau có bám nhiều đất bởi đây là môi trường cho nhiều loại vi sinh vật gây hại bám sống trên rau củ.Mỗi loại rau củ thường có hai mùa, mùa chính và trái mùa. Bạn nên chọn rau củ đúng mùa vì như thế rau sẽ được phát triển tự nhiên, không dùng quá nhiều chất kích thích hay thuốc trừ sâu.Quả tươi ngon không bị nứt, vỏ không thủng, quả không dập nát, lõi cành bên trong màu xanh, thơm mùi nhựa. Không nên chọn quả khô, héo, quắt, thâm dập chuyển màu. Nên mua trái cây đúng mùa, đặc biệt giữa mùa, vừa rẻ vừa ngon nhất.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/layout_thanh_blog2.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Food 01",
+            "name":"food_layout_01_thanh-3",
+            "color_bg":"#efefef",
+            "color_text":"#949494",
+            "html":" <div id='layout-article1'> <div class='wrapper'> <div class='inner'> <div class='grid mg-bottom30'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-right'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article1 .content-article{ text-align: justify !important; } #layout-article1 .sm-hide{ display:none; } #layout-article1 .lg-hide{ display: block !important; }}#layout-article1{ background: {color_bg}); padding: 20px 0; background-attachment: fixed; background-position: center; background-repeat: no-repeat; background-size: cover; position: relative; overflow: hidden;}#layout-article1 .content-article{ border-top: solid 5px {primary_color}; padding: 20px 0;}#layout-article1 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; font-size: 28px; color: {color_text}}#layout-article1 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text}}#layout-article1 .content-article .section-btn a{ background: {primary_color}; padding: 10px 25px; font-size: 18px; color: #fff; font-family: 'Open Sans', sans-serif;}#layout-article1 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article1 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article1 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article1 .lg-hide{ display: none;}",
+            "id":"food_layout_01_thanh-3",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Bữa sáng đủ dưỡng chất",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Bữa sáng rất quan trọng bởi nó cung cấp năng lượng cho cơ thể để hoạt động và làm việc trong buổi sáng. Nếu bạn nhịn ăn sáng có thể dẫn tới nhiều tác động xấu đến sức khỏe của bạn. Bỏ bữa sáng có thể dẫn tới mệt mỏi, uể oải, không có sức lực để làm việc. Vậy, buổi sáng nên ăn gì đơn giản mà vẫn đảm bảo dinh dưỡng? Đây là câu hỏi của nhiều người, đặc biệt là những người có công việc bận rộn và không có nhiều thời gian. Cùng tham khảo ngay những món ăn đơn giản nhưng đủ dưỡng chất vào buổi sáng dưới đây.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/layout_thanh_blog3.jpg",
+                    "type":"file"
+                }
+            ]
+        }
+    ],
+    "bicycle_layout_07_thanh":[
+        {
+            "type":"Bicycle 01",
+            "name":"bicycle_layout_07_thanh-1",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "html":" <div id='layout-article7'> <div class='wrapper'> <div class='inner'> <div class='article-content text-center pd-30'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> </div> </div>",
+            "css": "@media (max-width: 768px) { #layout-article7 .content-article{ text-align: justify !important; }}#layout-article7{ background:{color_bg};}#layout-article7 .mg-bottom30{ margin-bottom: 30px;}#layout-article7 .mg-bottom60{ margin-bottom: 60px;}#layout-article7 .pd-30{ padding:30px 0;}#layout-article7 .article-content{ padding:30px;}#layout-article7 .article-content .section-desc{ text-align: justify;}#layout-article7 .grid{ margin-left: 0px;}#layout-article7 .grid__item{ padding-left: 0px;}#layout-article7 .section-title h2{ font-family: 'Roboto', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 20px; color: #000;}#layout-article7 .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article7 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article7 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article7 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article7 .article-img:hover .section-title h2{ color: #6DC82B;}",
+            "id":"bicycle_layout_07_thanh-1",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "6 điểm dễ dàng nhận biết xe đạp Thống Nhất cho người tiêu dùng",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Công ty Cổ phần Thống Nhất Hà Nội ( tiền thân là nhà máy xe đạp Thống Nhất) được thành lập ngày 30/06/1960. Công ty chuyên sản xuất kinh doanh, xuất nhập khẩu xe đạp, phụ tùng và các sản phẩm kim cơ khí khác. Công ty vinh dự được Đảng, Nhà nước ghi nhận và tặng thưởng nhiều danh hiệu cao quý như: Huân Chương lao động hạng Nhất, Nhì, Ba, Cờ Thi đua, Bằng khen của Chính Phủ, Bằng khen của UBND thành phố Hà Nội và nhiều giải thưởng cao quý khác.",
+                    "type":"text"
+                }
+            ]
+        },
+        {
+            "type":"Bicycle 01",
+            "name":"bicycle_layout_07_thanh-2",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "html":" <div id='layout-article7'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--eight-twelfths medium--one-half small--one-whole custom-banner'> <div class='article-img'> <a href='#' class='banner_1'> <img src='{layout_img1}' alt=''> </a> </div> </div> <div class='grid__item large--four-twelfths medium--one-half small--one-whole'> <div class='article-content text-left'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> <div class='article-img'> <a href='#' class='banner_1'> <img src='{layout_img2}' alt=''> </a> </div> </div> </div> </div> </div> </div>",
+            "css": "@media (max-width: 768px) { #layout-article7 .content-article{ text-align: justify !important; }}#layout-article7{ background:{color_bg};}#layout-article7 .mg-bottom30{ margin-bottom: 30px;}#layout-article7 .mg-bottom60{ margin-bottom: 60px;}#layout-article7 .pd-30{ padding:30px 0;}#layout-article7 .article-content{ padding:30px;}#layout-article7 .article-content .section-desc{ text-align: justify;}#layout-article7 .grid{ margin-left: 0px;}#layout-article7 .grid__item{ padding-left: 0px;}#layout-article7 .section-title h2{ font-family: 'Roboto', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 20px; color: #000;}#layout-article7 .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article7 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article7 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article7 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article7 .article-img:hover .section-title h2{ color: #6DC82B;}",
+            "id":"bicycle_layout_07_thanh-2",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Xe đạp Thống Nhất: Khẳng định thương hiệu bằng chất lượng",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Những chiếc xe đạp một thời từng là nhân chứng đồng hành cùng người Việt, chứng kiến đất nước thống nhất và cải cách mở cửa. Trải qua gần 60 năm xây dựng, phát triển, Thống Nhất ngày càng khẳng định được vị thế dẫn đầu trong lĩnh vực sản xuất và kinh doanh xe đạp tại Việt Nam.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog1_da3548d91e8949918170b8ee98701167.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_img2",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog2_e53cfb07278c428bb7798187c1a17851.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Bicycle 01",
+            "name":"bicycle_layout_07_thanh-3",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "html":" <div id='layout-article7'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--four-twelfths medium--one-half small--one-whole'> <div class='article-content text-left'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> <div class='article-img'> <a href='#' class='banner_1'> <img src='{layout_img1}' alt=''> </a> </div> </div> <div class='grid__item large--eight-twelfths medium--one-half small--one-whole custom-banner'> <div class='article-img'> <a href='#' class='banner_1'> <img src='{layout_img2}' alt=''> </a> </div> </div> </div> </div> </div> </div>",
+            "css": "@media (max-width: 768px) { #layout-article7 .content-article{ text-align: justify !important; }}#layout-article7{ background:{color_bg};}#layout-article7 .mg-bottom30{ margin-bottom: 30px;}#layout-article7 .mg-bottom60{ margin-bottom: 60px;}#layout-article7 .pd-30{ padding:30px 0;}#layout-article7 .article-content{ padding:30px;}#layout-article7 .article-content .section-desc{ text-align: justify;}#layout-article7 .grid{ margin-left: 0px;}#layout-article7 .grid__item{ padding-left: 0px;}#layout-article7 .section-title h2{ font-family: 'Roboto', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 20px; color: #000;}#layout-article7 .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article7 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article7 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article7 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article7 .article-img:hover .section-title h2{ color: #6DC82B;}",
+            "id":"bicycle_layout_07_thanh-3",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Thống Nhất ủng hộ xe đạp tới Bạch Long Vỹ",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Hai chiếc xe do Công ty Cổ phần Thống Nhất Hà Nội quyên góp thuộc mẫu Thống Nhất Nam, cỡ bánh 26-inch, phù hợp cho đường bằng phẳng và cả địa hình bãi cát là khu vực công tác đặc thù của 9 quan trắc viên trên đảo. Các mẫu xe do Thống Nhất sản xuất đều có độ bền cao, có thể chống chịu với khí hậu có phần khắc nghiệt hơn so với đất liền.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog3_22725a9ab09f4003849ef6ac120b0f70.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_img2",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog4_c944dda57cd745a8b4f104960ebd03b8.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Bicycle 01",
+            "name":"bicycle_layout_07_thanh-4",
+            "color_bg":"#F7F7F7",
+            "color_text":"#949494",
+            "html":" <div id='layout-article7'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--four-twelfths medium--one-whole small--one-whole custom-banner'> <div class='article-img'> <a href='#' class='banner_1'> <img src='{layout_img1}' alt=''> </a> </div> </div> <div class='grid__item large--four-twelfths medium--one-half small--one-whole'> <div class='article-content text-left'> <div class='section-title'> <h2> {layout_title} </h2> </div> <div class='section-desc'>{layout_content} </div> </div> <div class='article-img'> <a href='#' class='banner_1'> <img src='{layout_img2}' alt=''> </a> </div> </div> <div class='grid__item large--four-twelfths medium--one-whole small--one-whole custom-banner'> <div class='article-img'> <a href='#' class='banner_1'> <img src='{layout_img3}' alt=''> </a> </div> </div> </div> </div> </div> </div>",
+            "css": "@media (max-width: 768px) { #layout-article7 .content-article{ text-align: justify !important; }}#layout-article7{ background:{color_bg};}#layout-article7 .mg-bottom30{ margin-bottom: 30px;}#layout-article7 .mg-bottom60{ margin-bottom: 60px;}#layout-article7 .pd-30{ padding:30px 0;}#layout-article7 .article-content{ padding:30px;}#layout-article7 .article-content .section-desc{ text-align: justify;}#layout-article7 .grid{ margin-left: 0px;}#layout-article7 .grid__item{ padding-left: 0px;}#layout-article7 .section-title h2{ font-family: 'Roboto', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 20px; color: #000;}#layout-article7 .section-desc{ line-height: 24px; letter-spacing: 0.5px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article7 .article-img{ overflow: hidden; position: relative; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article7 .article-img a img{ width: 100%; vertical-align: middle; transform: scale(1); -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article7 .article-img:hover img{ width: 100%; vertical-align: middle; transform: scale(1.05);}#layout-article7 .article-img:hover .section-title h2{ color: #6DC82B;}",
+            "id":"bicycle_layout_07_thanh-4",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Du khách thích thú với Xe đạp Thống Nhất tại Santa Villa Hội An",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Nằm trong khoảng cách đi bộ tới bãi biển An Bàng lãng mạn, Santa Villa Hoi An cung cấp chỗ nghỉ với ban công riêng nhìn ra biển tại phường Cẩm An, cách Phố Cổ Hội An khoảng 4 km. Khách du lịch nghỉ ngơi tại khách sạn được cung cấp dịch vụ Wi-Fi và sử dụng xe đạp miễn phí.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog5_191805ed684f4fef9f22bed130105005.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_img2",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog6_b66d5838fa19438089abf02f137598d5.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_img3",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog7_a90bbdae9f68433ca74a3236d8e6455d.jpg",
+                    "type":"file"
+                }
+            ]
+        }
+    ],
+    "organic_layout_08_thanh":[
+        {
+            "type":"Organic 08",
+            "name":"organic_layout_08_thanh-1",
+            "image":"",
+            "color_bg":"#fff",
+            "color_text":"#000",
+            "html":"<div id='layout-article8'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-right'> <div class='section-title text-right'> <h2> {layout_title} </h2> <span class='section-title-border'></span> </div> <div class='section-desc'> {layout_content} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article8 .content-article{ text-align: justify !important; } #layout-article8 .content-article .section-title{ text-align: left !important; }}#layout-article8{ padding: 10px 0; background:{color_bg};}#layout-article8 .mb-10{ margin-bottom: 10px;}#layout-article8 .section-title2{ margin-bottom: 10px;}#layout-article8 .section-title2 p{ font-family: 'Open Sans Condensed', sans-serif; font-size: 24px; font-weight: bold !important; text-transform: uppercase; color: {color_text}; margin-bottom: 0px;}#layout-article8 .content-article .section-title{ margin-bottom: 10px;}#layout-article8 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {primary_color}; margin-bottom: 0px;}#layout-article8 .content-article .section-title p{ color: {color_text};}#layout-article8 .content-article .section-title .section-title-border { display: inline-block; height: 5px; width: 50px; background: {primary_color};}#layout-article8 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article8 .article-img a { display: block; overflow: hidden; border-radius: 5px;}#layout-article8 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article8 .article-img a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"organic_layout_08_thanh-1",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Quả mâm xôi",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Quả mâm xôi là một loại trái cây ăn được, thường mọc trên cây mâm xôi hoặc lai tạp với những loại cây khác cùng thuộc chi, họ với nhau. Chi mâm xôi là một chi lớn trong họ thực vật và thuộc họ hoa hồng (Rosaceae). Chúng được trồng phổ biến ở Châu Âu và Bắc Mỹ, còn ở Việt Nam loại cây này phổ biến ở Lâm Đồng, Đà Lạt.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog_fruit_1.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Organic 08",
+            "name":"organic_layout_08_thanh-2",
+            "image":"",
+            "color_bg":"#fff",
+            "color_text":"#000",
+            "html":"<div id='layout-article8'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title'> <h2> {layout_title} </h2> <span class='section-title-border'></span> </div> <div class='section-desc'> {layout_content} </div> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article8 .content-article{ text-align: justify !important; } #layout-article8 .content-article .section-title{ text-align: left !important; }}#layout-article8{ padding: 10px 0; background:{color_bg};}#layout-article8 .mb-10{ margin-bottom: 10px;}#layout-article8 .section-title2{ margin-bottom: 10px;}#layout-article8 .section-title2 p{ font-family: 'Open Sans Condensed', sans-serif; font-size: 24px; font-weight: bold !important; text-transform: uppercase; color: {color_text}; margin-bottom: 0px;}#layout-article8 .content-article .section-title{ margin-bottom: 10px;}#layout-article8 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {primary_color}; margin-bottom: 0px;}#layout-article8 .content-article .section-title p{ color: {color_text};}#layout-article8 .content-article .section-title .section-title-border { display: inline-block; height: 5px; width: 50px; background: {primary_color};}#layout-article8 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article8 .article-img a { display: block; overflow: hidden; border-radius: 5px;}#layout-article8 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article8 .article-img a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"organic_layout_08_thanh-2",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Quả chanh",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Mới đây, tổ chức Nghiên cứu khoa học và công nghiệp Australia (CSIRO) cho rằng, một quả chanh cũng có tác dụng phòng chống đến 50% các bệnh ung thư, và khuyên mỗi người nên tiêu thụ ít nhất 150 gram vỏ cam hoặc chanh đông lạnh mỗi tuần. Bởi trong một quả chanh có chứa đến 22 chất chống ung thư bao gồm limonene, citrus pectin, glycosides flavonnol, vitamin C...",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog_fruit_2.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Organic 08",
+            "name":"organic_layout_08_thanh-3",
+            "image":"",
+            "color_bg":"#fff",
+            "color_text":"#000",
+            "html":"<div id='layout-article8'> <div class='article-img banner-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article8 .content-article{ text-align: justify !important; } #layout-article8 .content-article .section-title{ text-align: left !important; }}#layout-article8 .banner-img a{border-radius:0px !important;}#layout-article8{ padding: 10px 0; background:{color_bg};}#layout-article8 .mb-10{ margin-bottom: 10px;}#layout-article8 .section-title2{ margin-bottom: 10px;}#layout-article8 .section-title2 p{ font-family: 'Open Sans Condensed', sans-serif; font-size: 24px; font-weight: bold !important; text-transform: uppercase; color: {color_text}; margin-bottom: 0px;}#layout-article8 .content-article .section-title{ margin-bottom: 10px;}#layout-article8 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {primary_color}; margin-bottom: 0px;}#layout-article8 .content-article .section-title p{ color: {color_text};}#layout-article8 .content-article .section-title .section-title-border { display: inline-block; height: 5px; width: 50px; background: {primary_color};}#layout-article8 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article8 .article-img a { display: block; overflow: hidden; border-radius: 5px;}#layout-article8 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article8 .article-img a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"organic_layout_08_thanh-3",
+            "content":[
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_banner_d860a2c45967478d8bb92f1333611e6d.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Organic 08",
+            "name":"organic_layout_08_thanh-4",
+            "image":"",
+            "color_bg":"#fff",
+            "color_text":"#000",
+            "html":"<div id='layout-article8'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-right'> <div class='section-title'> <h2> {layout_title1} </h2> <span class='section-title-border'></span> </div> <div class='section-desc'> {layout_content1} </div> </div> <div class='content-article text-right'> <div class='section-title2'> <p>{layout_title2}</p> </div> <div class='section-desc'> {layout_content2} </div> </div> <div class='article-img'> <a href='#'> <img src='{layout_img1}' alt=''> </a> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img mb-10'> <a href='#'> <img src='{layout_img5}' alt=''> </a> </div> <div class='content-article text-left'> <div class='section-title2'> <p>{layout_title3}</p> </div> <div class='section-desc'> {layout_content3} </div> </div> <div class='content-article text-left'> <div class='section-title2'> <p>{layout_title4}</p> </div> <div class='section-desc'> {layout_content4} </div> </div> <div class='content-article text-left'> <div class='section-title2'> <p>{layout_title5}</p> </div> <div class='section-desc'> {layout_content5} </div> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article8 .content-article{ text-align: justify !important; } #layout-article8 .content-article .section-title{ text-align: left !important; }}#layout-article8{ padding: 10px 0; background:{color_bg};}#layout-article8 .mb-10{ margin-bottom: 10px;}#layout-article8 .section-title2{ margin-bottom: 10px;}#layout-article8 .section-title2 p{ font-family: 'Open Sans Condensed', sans-serif; font-size: 24px; font-weight: bold !important; text-transform: uppercase; color: {color_text}; margin-bottom: 0px;}#layout-article8 .content-article .section-title{ margin-bottom: 10px;}#layout-article8 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {primary_color}; margin-bottom: 0px;}#layout-article8 .content-article .section-title p{ color: {color_text};}#layout-article8 .content-article .section-title .section-title-border { display: inline-block; height: 5px; width: 50px; background: {primary_color};}#layout-article8 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article8 .article-img a { display: block; overflow: hidden; border-radius: 5px;}#layout-article8 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article8 .article-img a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"organic_layout_08_thanh-4",
+            "content":[
+                {
+                    "name":"layout_title1",
+                    "title": "Tiêu đề layout 1",
+                    "value": "Quả gấc lai",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content1",
+                    "title": "Mô tả layout 1",
+                    "value": "Gấc là một loại quả quen thuộc và được trồng khắp nước ta, nhiều người chỉ biết đến công dụng của gấc qua món ăn đó là xôi gấc được dùng trong những ngày lễ tết. Tuy nhiên, tác dụng của gấc với sức khỏe con người thì ít ai biết rõ. Các hãng dược phẩm lớn của Mỹ ví trái gấc là loại quả đến từ thiên đường và là thần dược cho sức khỏe.Gấc được xem là loại thực phẩm tốt cho những người thừa cholesterol trong máu. Nếu sử dụng gấc thường xuyên và liên tục, bạn và gia đình sẽ giảm được lượng cholesterol không mong muốn.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_title2",
+                    "title": "Tiêu đề layout 2",
+                    "value": "Phòng chống ung thư",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content2",
+                    "title": "Mô tả layout 2",
+                    "value": "Gấc là một loại quả quen thuộc và được trồng khắp nước ta, nhiều người chỉ biết đến công dụng của gấc qua món ăn đó là xôi gấc được dùng trong những ngày lễ tết. Tuy nhiên, tác dụng của gấc với sức khỏe con người thì ít ai biết rõ. Các hãng dược phẩm lớn của Mỹ ví trái gấc là loại quả đến từ thiên đường và là thần dược cho sức khỏe.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout 1",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog_fruit_5.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title3",
+                    "title": "Tiêu đề layout 3",
+                    "value": "Nâng cao hệ thống miễn dịch và chống lão hóa",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content3",
+                    "title": "Mô tả layout 3",
+                    "value": "Tinh chất Curcumin trong dầu gấc có khả năng loại bỏ các gốc tự do gây ung thư có trong thức ăn, nước uống hàng ngày. Đồng thời nâng cao sức đề kháng, thể lực. Bên cạnh tinh chất Curcumin được coi là quý giá còn có Beta Caroten chứa trong màng của quả gấc cũng có tác dụng chống ôxy hóa mạnh, tăng cường sức đề kháng cho cơ thể. Giúp cơ thể nâng cao hệ thống miễn dịch cơ thể.Curcumin là một chất chống ôxy hóa, chống lão hóa điển hình (một số nghiên cứu chứng minh curcumin chống ôxy hóa gấp 300 lần vitamin E), Curcumin có tác dụng xóa bỏ tàn nhang, ngăn ngừa các nếp nhăn, làm cho da dẻ hồng hào, mịn màng, chống rụng tóc, giúp mau chóng mọc tóc, ngăn ngừa béo phì, điều hòa huyết áp.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_title4",
+                    "title": "Tiêu đề layout 4",
+                    "value": "Giảm cholesterol",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content4",
+                    "title": "Mô tả layout 4",
+                    "value": "Gấc được xem là loại thực phẩm tốt cho những người thừa cholesterol trong máu. Nếu sử dụng gấc thường xuyên và liên tục, bạn và gia đình sẽ giảm được lượng cholesterol không mong muốn, làm bền thành mạch, chống xơ vữa động mạch, từ đó chống tai biến, mang lại cho bạn hệ tuần hoàn khỏe mạnh, tốt cho tim, chống các bệnh tim mạch, tai biến, tăng cường tuổi thọ.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_title5",
+                    "title": "Tiêu đề layout 5",
+                    "value": "Ổn định hệ thần kinh",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content5",
+                    "title": "Mô tả layout 5",
+                    "value": "Gấc giàu selen, khoáng chất và các vitamin, đây là những chất có ích trong việc ổn định hệ thần kinh và có tác dụng chống lại các biểu hiện của bệnh trầm cảm, một loại bệnh đang gia tăng nhiều ở trẻ nhỏ và những người chịu nhiều áp lực cuộc sống hiện nay.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img5",
+                    "title": "Hình ảnh cho layout 5",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_blog_fruit_3.jpg",
+                    "type":"file"
+                }
+            ]
+        }
+    ],
+    "fashion_layout_9_thanh":[
+        {
+            "type":"Fashion 9",
+            "name":"fashion_layout_9_thanh-1",
+            "image":"",
+            "color_bg":"#c3d2ef",
+            "color_text":"#000",
+            "html":" <div id='layout-article10-1'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole'> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title text-left'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div></div></div></div></div>",
+            "css": "#layout-article10-1 .grid-uniform{ margin-left: 0px; background-image: url('{layout_img}'); background-repeat: no-repeat; background-size: cover; background-position: center; position: relative;}#layout-article10-1 .grid-uniform .grid__item{ padding-left: 0px;}#layout-article10-1 .content-article{ position:relative; padding: 80px 20px; background: {color_bg};}#layout-article10-1 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text}; margin-left: 60px;}#layout-article10-1 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {primary_color}; margin-bottom: 0px;}#layout-article10-1 .article-img a { display: block; overflow: hidden;}#layout-article10-1 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article10-1 .article-img a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"fashion_layout_9_thanh-1",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Thanh lịch, sang trọng",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Chẳng ai rõ được xuất phát điểm của loại chất liệu này là bắt đầu từ đâu. Thế nhưng thời điểm mà loại chất liệu này được trân quý và tôn vinh nhiều nhất là giữa thế kỷ 18 đến đầu những năm 20s. Theo diễn tiến của lịch sử thời trang, chất liệu này ở thời điểm hiện tại vẫn thường xuyên được sử dụng trong thời trang cưới hay thời trang cao cấp.Khi trên tay bạn đeo một chiếc đồng hồ, một chiếc vòng, một vài chiếc nhẫn hay kết hợp tất cả các món phụ kiện đó, hãy cố gắng chọn một loại kim loại duy nhất. Ví dụ như tất cả cùng làm từ bạc, hoặc vàng, cùng trong tông màu đen, vàng hồng…",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_bg.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Fashion 9",
+            "name":"fashion_layout_9_thanh-2",
+            "image":"",
+            "color_bg":"#edd6ce",
+            "color_text":"#000",
+            "html":"<div id='layout-article10-2'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title text-left'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> </div></div></div></div></div>",
+            "css": "#layout-article10-2 .grid-uniform{ margin-left: 0px; background-image: url('{layout_img}'); background-repeat: no-repeat; background-size: cover; background-position: center; position: relative;}#layout-article10-2 .grid-uniform .grid__item{ padding-left: 0px;}#layout-article10-2 .content-article{ position:relative; padding: 80px 20px; background: {color_bg};}#layout-article10-2 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text}; margin-left: 60px;}#layout-article10-2 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {primary_color}; margin-bottom: 0px;}#layout-article10-2 .article-img a { display: block; overflow: hidden;}#layout-article10-2 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article10-2 .article-img a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"fashion_layout_9_thanh-2",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Cá tính, sành điệu",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Phụ kiện vẫn luôn là một thế mạnh của phụ nữ. So với nam giới, phái đẹp sở hữu sự lựa chọn đa dạng và phong phú hơn rất nhiều. Nhưng đáng tiếc là không phải ai cũng có thói quen phối phụ kiện với những trang phục hàng ngày của mình. Trong khi đó, chỉ đôi khuyên tai hay chiếc vòng tay nhỏ nhắn thôi cũng có thể giúp cho ngoại hình của bạn hoàn thiện hơn hẳn.            Khi trên tay bạn đeo một chiếc đồng hồ, một chiếc vòng, một vài chiếc nhẫn hay kết hợp tất cả các món phụ kiện đó, hãy cố gắng chọn một loại kim loại duy nhất. Ví dụ như tất cả cùng làm từ bạc, hoặc vàng, cùng trong tông màu đen, vàng hồng…",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_bg2_5b17f48f67744613af02dee31ac14170.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Fashion 9",
+            "name":"fashion_layout_9_thanh-3",
+            "image":"",
+            "color_bg":"#d39e76",
+            "color_text":"#000",
+            "html":"<div id='layout-article10-3'> <div class='wrapper'> <div class='inner'> <div class='grid-uniform'> <div class='grid__item large--one-half medium--one-half small--one-whole'> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title text-left'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div></div></div></div></div>",
+            "css": "#layout-article10-3 .grid-uniform{ margin-left: 0px; background-image: url('{layout_img}'); background-repeat: no-repeat; background-size: cover; background-position: center; position: relative;}#layout-article10-3 .grid-uniform .grid__item{ padding-left: 0px;}#layout-article10-3 .content-article{ position:relative; padding: 80px 20px; background: {color_bg};}#layout-article10-3 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text}; margin-left: 60px;}#layout-article10-3 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {primary_color}; margin-bottom: 0px;}#layout-article10-3 .article-img a { display: block; overflow: hidden;}#layout-article10-3 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article10-3 .article-img a:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"fashion_layout_9_thanh-3",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "Thoải mái, cá tính",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Hãy thử biến tấu chiếc váy shirt-dress dáng dài quen thuộc thành áo choàng tắm hiện đại. Khi tiệc tùng bên hồ bơi, bạn có thể điều chỉnh độ “hở” tùy ý để phù hợp với khung cảnh. Chiếc váy sơmi màu trắng có thể phù hợp với hầu hết các thiết kế đồ tắm. Hoặc bạn có thể kết hợp váy có màu sắc tương đồng với họa tiết trên đồ bơi để trông hài hòa, nổi bật hơn. Đừng quên thêm một chiếc mũ cói hoặc vải để tránh nắng thật sành điệu.Khi trên tay bạn đeo một chiếc đồng hồ, một chiếc vòng, một vài chiếc nhẫn hay kết hợp tất cả các món phụ kiện đó, hãy cố gắng chọn một loại kim loại duy nhất. Ví dụ như tất cả cùng làm từ bạc, hoặc vàng, cùng trong tông màu đen, vàng hồng…",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_bg3.jpg",
+                    "type":"file"
+                }
+            ]
+        }
+    ],
+    "fashion_layout_10_thanh":[
+        {
+            "type":"Fashion 10",
+            "name":"fashion_layout_10_thanh-1",
+            "image":"",
+            "color_bg":"#fff",
+            "color_text":"#000",
+            "html":"<div id='layout-article10'> <div class='wrapper'> <div class='inner'> <div class='grid'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title text-left'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article10 .content-article{ text-align: justify !important; } #layout-article10 .content-article .section-title{ text-align: left !important; }}#layout-article10{ padding: 10px 0; background:{color_bg};}#layout-article10 .inner{ border-bottom: dashed 1px #000; padding-bottom: 20px;}#layout-article10 .section-title{ margin-bottom: 10px;}#layout-article10 .section-title p{ font-family: 'Open Sans Condensed', sans-serif; font-size: 24px; font-weight: bold !important; text-transform: uppercase; color: {color_text}; margin-bottom: 0px;}#layout-article10 .content-article .section-title{ margin-bottom: 10px;}#layout-article10 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {color_text}; margin-bottom: 0px;}#layout-article10 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article10 .article-img a { display: block; overflow: hidden;}#layout-article10 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article10 .article-img a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"fashion_layout_10_thanh-1",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "01 Phong cách cổ điển",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Hay còn có tên gọi khác là Parisian style, là hiện thân của các cô gái Pháp. Nữ tính, đằm thắm, điệu đà nhưng không kém phần sang trọng và lịch thiệp. Đó là những tính từ để nói đến phong cách Classic, điển hình nhất chính là NTK Coco Chanel, biểu tượng thời trang, linh hồn đậm chất “classy and fabulous”, người con đáng tự hào của nước Pháp.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_art1.jpg",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Fashion 10",
+            "name":"fashion_layout_10_thanh-2",
+            "image":"",
+            "color_bg":"#fff",
+            "color_text":"#000",
+            "html":"<div id='layout-article10'> <div class='wrapper'> <div class='inner'> <div class='grid'> <div class='grid__item large--four-twelfths'> <div class='article-img'> <a href='#'> <img src='{layout_img_left}' alt=''> </a> </div> </div> <div class='grid__item large--eight-twelfths'> <div class='grid'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title text-left'> <h2> {layout_title1} </h2> </div> <div class='section-desc'> {layout_content1} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img1}' alt=''> </a> </div> </div> </div> <div class='grid'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title text-left'> <h2> {layout_title2} </h2> </div> <div class='section-desc'> {layout_content2} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img2}' alt=''> </a> </div> </div> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article10 .content-article{ text-align: justify !important; } #layout-article10 .content-article .section-title{ text-align: left !important; }}#layout-article10{ padding: 10px 0; background:{color_bg};}#layout-article10 .inner{ border-bottom: dashed 1px #000; padding-bottom: 20px;}#layout-article10 .section-title{ margin-bottom: 10px;}#layout-article10 .section-title p{ font-family: 'Open Sans Condensed', sans-serif; font-size: 24px; font-weight: bold !important; text-transform: uppercase; color: {color_text}; margin-bottom: 0px;}#layout-article10 .content-article .section-title{ margin-bottom: 10px;}#layout-article10 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {color_text}; margin-bottom: 0px;}#layout-article10 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article10 .article-img a { display: block; overflow: hidden;}#layout-article10 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article10 .article-img a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"fashion_layout_10_thanh-2",
+            "content":[
+                {
+                    "name":"layout_img_left",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_art_left.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title1",
+                    "title": "Tiêu đề layout 1",
+                    "value": "02 Phong cách tối giản",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content1",
+                    "title": "Mô tả layout 1",
+                    "value": "Các tín đồ thời trang hẳn không còn lạ gì với tên gọi này. Minimalism được lấy cảm hứng từ nghệ thuật gấp giấy origami Nhật Bản, với những thiết kế tiết chế hết mức có thể những đường chiết li, chi tiết cầu kỳ, chỉ giữ lại phom dáng cơ bản và màu sắc cũng được đơn giản hóa.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img1",
+                    "title": "Hình ảnh cho layout 2",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_art2.jpg",
+                    "type":"file"
+                },
+                {
+                    "name":"layout_title2",
+                    "title": "Tiêu đề layout 2",
+                    "value": "03 Phong cách tự do",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content2",
+                    "title": "Mô tả layout 2",
+                    "value": "Phóng khoáng, du mục, bất quy tắc và sôi nổi chính là những từ để miêu tả phong cách Hippie. Đặc trưng là những bộ quần áo hoặc đầm suôn, nhiều tầng lớp và xếp nếp, không tuân theo bất cứ một quy tắc phối hợp nào và thường đi kèm phụ kiện cài đầu, băng đô,… tạo nên tổng thể tưởng như xuề xòa nhưng vô cùng hợp lý.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img2",
+                    "title": "Hình ảnh cho layout 2",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_art4.png",
+                    "type":"file"
+                }
+            ]
+        },
+        {
+            "type":"Fashion 10",
+            "name":"fashion_layout_10_thanh-3",
+            "image":"",
+            "color_bg":"#fff",
+            "color_text":"#000",
+            "html":"<div id='layout-article10'> <div class='wrapper'> <div class='inner'> <div class='grid'> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='content-article text-left'> <div class='section-title text-left'> <h2> {layout_title} </h2> </div> <div class='section-desc'> {layout_content} </div> </div> </div> <div class='grid__item large--one-half medium--one-half small--one-whole'> <div class='article-img'> <a href='#'> <img src='{layout_img}' alt=''> </a> </div> </div> </div> </div> </div></div>",
+            "css": "@media (max-width: 768px) { #layout-article10 .content-article{ text-align: justify !important; } #layout-article10 .content-article .section-title{ text-align: left !important; }}#layout-article10{ padding: 10px 0; background:{color_bg};}#layout-article10 .inner{ border-bottom: dashed 1px #000; padding-bottom: 20px;}#layout-article10 .section-title{ margin-bottom: 10px;}#layout-article10 .section-title p{ font-family: 'Open Sans Condensed', sans-serif; font-size: 24px; font-weight: bold !important; text-transform: uppercase; color: {color_text}; margin-bottom: 0px;}#layout-article10 .content-article .section-title{ margin-bottom: 10px;}#layout-article10 .content-article .section-title h2{ font-family: 'Open Sans Condensed', sans-serif; font-weight: bold !important; text-transform: uppercase; font-size: 30px; color: {color_text}; margin-bottom: 0px;}#layout-article10 .content-article .section-desc{ line-height: 24px; letter-spacing: 0.5px; margin-bottom: 15px; font-family: 'Open Sans', sans-serif; color: {color_text};}#layout-article10 .article-img a { display: block; overflow: hidden;}#layout-article10 .article-img a img { width: 100%; vertical-align: middle; -webkit-transition: all 0.3s ease; -moz-transition: all 0.3s ease; transition: all 0.3s ease;}#layout-article10 .article-img a img:hover { transform: scale(1.05); vertical-align: middle;}",
+            "id":"fashion_layout_10_thanh-3",
+            "content":[
+                {
+                    "name":"layout_title",
+                    "title": "Tiêu đề layout",
+                    "value": "04 Phong cách Bohemian",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_content",
+                    "title": "Mô tả layout",
+                    "value": "Thường bị nhầm lẫn với Hippie, phong cách Boho được lấy cảm hứng từ những chiếc đuôi váy bồng xòe của thời trang đời đầu kết hợp với họa tiết, những đường xếp li, và phong thái dịu dàng nữ tính hơn nhiều so với phong cách Hippie.",
+                    "type":"text"
+                },
+                {
+                    "name":"layout_img",
+                    "title": "Hình ảnh cho layout",
+                    "value": "http://file.hstatic.net/1000234244/file/thanh_art3.jpg",
+                    "type":"file"
+                }
+            ]
+        }
+    ]
+}
